@@ -66,10 +66,10 @@ These were used to assess and compare the performance of both models.
 ### 📌 Model Performance Comparison
 
 #### Logistic Regression  
-![Logistic Regression Results](logistic_results.png)
+![Logistic Regression Results](logistic_result.png)
 
 #### XGBoost  
-![XGBoost Results](xgboost_results.png)
+![XGBoost Results](xgboots_result.png)
 
 > *XGBoost shows stronger performance in classifying churned customers with higher recall and precision.*
 
